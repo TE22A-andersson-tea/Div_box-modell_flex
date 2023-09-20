@@ -1,0 +1,52 @@
+.Hela{
+    background-color: beige;
+}
+
+.Top{
+    border: 2px solid red;
+    min-height: 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#Rubrik{
+    background-color: aqua;
+    border: 2px solid black;
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+a{
+    font-family: monospace;
+    font-size: 20px;
+}
+.Mellan{
+    border: 2px solid orange;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    padding-left: 4px;
+    padding-right: 4px;
+    text-align: center;
+}
+
+.Vänster{
+    border: solid black;
+    min-width: 49%;
+    background-color: yellow;
+}
+
+.Höger{
+    border: solid black;
+    min-width: 49%;
+    background-color: rgb(253, 87, 72);
+}
+
+.Botten{
+    border: solid yellow;
+}
